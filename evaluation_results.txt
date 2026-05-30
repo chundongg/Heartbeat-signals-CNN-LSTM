@@ -1,0 +1,14 @@
+最佳验证准确率: 99.42%
+测试集准确率: 99.42%
+
+分类报告:
+              precision    recall  f1-score   support
+
+     Class 0       1.00      1.00      1.00     12877
+     Class 1       0.96      0.94      0.95       749
+     Class 2       0.99      0.99      0.99      2829
+     Class 3       1.00      1.00      1.00      3545
+
+    accuracy                           0.99     20000
+   macro avg       0.99      0.98      0.98     20000
+weighted avg       0.99      0.99      0.99     20000
